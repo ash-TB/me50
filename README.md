@@ -1,2 +1,2 @@
-# me50
-Repository for Harvard AI50 course projects
+# ai50
+Contains projects from Harvard AI50 class
